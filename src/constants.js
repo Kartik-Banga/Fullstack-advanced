@@ -1,1 +1,1 @@
-export const DB_NAME = "fullstackAdvanced"
+export const DB_NAME = "fullstackAdvancedCopy"
